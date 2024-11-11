@@ -138,11 +138,9 @@ int main() {
     return 0;
 }
 
+
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/364239d8-5f73-489f-838b-9cc5cca515b1)
-
-
-
+![exp-9](https://github.com/user-attachments/assets/60377d60-0f4f-4f44-9e8f-a903ddb48a36)
 ## Result:
  The program is executed successfully.
