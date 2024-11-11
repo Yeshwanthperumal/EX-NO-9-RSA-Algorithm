@@ -138,7 +138,6 @@ int main() {
     return 0;
 }
 
-
 ```
 ## Output:
 ![exp-9](https://github.com/user-attachments/assets/60377d60-0f4f-4f44-9e8f-a903ddb48a36)
